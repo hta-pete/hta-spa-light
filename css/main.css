@@ -453,7 +453,7 @@ FEATURED OFFERINGS
 }
 .card-face_back strong {
   display: inline-block;
-  font-size: 24px;
+  font-size: 30px;
   font-weight: 900;
   margin-bottom: 15px;
 }
@@ -691,7 +691,7 @@ HTA MENU
 #hta-menu nav li {
   position: relative;
   display: block;
-  margin: 20px 0;
+  margin: 25px 0;
   cursor: pointer;
   will-change: transform;
   opacity: 0;
@@ -742,7 +742,7 @@ HTA MENU
   line-height: 1.2;
   font-weight: 900;
   color: #222c4a;
-  margin-bottom: 5px;
+  margin-bottom: 8px;
 }
 #hta-menu nav li textarea {
   max-width: 100%;

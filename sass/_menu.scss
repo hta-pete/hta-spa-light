@@ -55,7 +55,7 @@ HTA MENU
     li{
       position:relative;
       display:block;
-      margin:20px 0;
+      margin:25px 0;
       cursor:pointer;
       will-change:transform;
       @include opacity(0);
@@ -104,7 +104,7 @@ HTA MENU
         line-height:1.2;
         font-weight:900;
         color: $primary;
-        margin-bottom:5px;
+        margin-bottom:8px;
       }
       textarea{
         max-width:100%;
