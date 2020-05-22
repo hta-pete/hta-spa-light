@@ -419,6 +419,7 @@ FEATURED OFFERINGS
   -ms-transition: transform 0.6s cubic-bezier(0.19, 1, 0.22, 1);
   -o-transition: transform 0.6s cubic-bezier(0.19, 1, 0.22, 1);
   transition: transform 0.6s cubic-bezier(0.19, 1, 0.22, 1);
+  -webkit-transform-style: preserve-3d;
   transform-style: preserve-3d;
 }
 
@@ -426,6 +427,7 @@ FEATURED OFFERINGS
   position: absolute;
   height: 50vh;
   width: 100%;
+  -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   border-radius: 5px;
 }
