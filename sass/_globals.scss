@@ -120,14 +120,9 @@ a{
 }
 
 main{
-  //position:absolute;
   top:0;
   width:100%;
-  min-width:1280px;
-  //height:100vh;
-  //margin:0 auto 0 auto;
   overflow-x:hidden;
-  //overflow-y:scroll;
 }
 
 /* ––––––––––––––––––––––––––––––––––––––––
@@ -392,6 +387,7 @@ FEATURED OFFERINGS
 
 
 .card{
+  z-index:0;
   position:relative;
   width:100%;
   height:100%;
